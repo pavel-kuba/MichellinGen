@@ -1,0 +1,5 @@
+{
+  "name": "Michelin Chef AI",
+  "description": "Transform everyday food photos into Michelin-star masterpieces using Gemini Nano and Pro.",
+  "requestFramePermissions": []
+}
